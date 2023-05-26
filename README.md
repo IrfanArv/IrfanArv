@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Irfan Arifin, a Full Stack Node.js Developer with a passion for building innovative and scalable web applications.<br>I'm passionate about creating user-centric applications that provide seamless experiences<br>I'm excited to contribute my skills and expertise to projects that make a meaningful impact."
+Hi, I'm Irfan Arifin, a Full Stack Developer with a passion for building innovative and scalable web applications.<br>I'm passionate about creating user-centric applications that provide seamless experiences<br>I'm excited to contribute my skills and expertise to projects that make a meaningful impact."
 
 
 ## 🌐 Socials:
